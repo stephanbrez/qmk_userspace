@@ -1,4 +1,7 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["pinky/3", "stephanbrez_mac"],
+        ["pinky/3", "stephanbrez_linux"]
+    ]
 }
