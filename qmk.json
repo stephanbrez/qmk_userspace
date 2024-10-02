@@ -2,6 +2,8 @@
     "userspace_version": "1.1",
     "build_targets": [
         ["pinky/3", "stephanbrez_mac"],
-        ["pinky/3", "stephanbrez_linux"]
+        ["pinky/3", "stephanbrez_linux"],
+        ["ferris/sweep", "stephanbrez_mac"],
+        ["ferris/sweep", "stephanbrez_linux"]
     ]
 }
